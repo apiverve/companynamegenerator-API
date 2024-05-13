@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/companynamegenerator",
+  "version": "1.0.0",
+  "description": "Company Name Generator is a simple tool for generating company names. It returns a list of company names based on the specified criteria.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/companynamegenerator-API.git"
+  },
+  "keywords": [
+    "company name generator"," company name generator api"," company name generator tool"," company name generator software"," company name generator service"," company name generator library"," company name generator sdk"," company name generator code"," company name generator script"," company name generator program"," company name generator application"," company name generator app"," company name generator utility"," company name generator helper"," company name generator helper tool"," company name generator helper software"," company name generator helper service"," company name generator helper library"," company name generator helper sdk"," company name generator helper code"," company name generator helper script"," company name generator helper program"," company name generator helper application"," company name generator helper app"," company name generator helper utility"," company name generator helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/companynamegenerator-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/companynamegenerator-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}
