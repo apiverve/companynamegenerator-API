@@ -1,7 +1,7 @@
 Company Name Generator API
 ============
 
-Company Name Generator is a simple tool for generating company names. It returns a list of company names based on the specified criteria.
+Company Name Generator is a simple tool for generating company names. It returns a list of company names based on the specified keyword.
 
 ![Build Status](https://img.shields.io/badge/build-passing-green)
 ![Code Climate](https://img.shields.io/badge/maintainability-B-purple)
@@ -75,11 +75,11 @@ api.execute(query, function (error, data) {
     "keyword": "systems",
     "count": "5",
     "names": [
-      "Systemspress",
-      "Systemscout",
-      "Systemsbay",
-      "GoSystems",
-      "Systemsloop"
+      "MakeSystems",
+      "PeakSystems",
+      "SystemsDrop",
+      "SystemsHip",
+      "SystemsRise"
     ]
   }
 }
