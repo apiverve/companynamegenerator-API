@@ -1,7 +1,7 @@
 {
   "name": "@apiverve/companynamegenerator",
-  "version": "1.0.2",
-  "description": "Company Name Generator is a simple tool for generating company names. It returns a list of company names based on the specified criteria.",
+  "version": "1.0.3",
+  "description": "Company Name Generator is a simple tool for generating company names. It returns a list of company names based on the specified keyword.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
